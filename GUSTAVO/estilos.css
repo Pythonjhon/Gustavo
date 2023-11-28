@@ -1,0 +1,23 @@
+body {
+    background-color: #333; /* Fondo oscuro */
+    color: white; /* Texto blanco */
+    font-family: Arial, sans-serif; /* Tipo de letra */
+    text-align: center; /* Centrar el contenido */
+    padding: 20px; /* Espaciado interior */
+}
+
+h1 {
+    color: #66ccff; /* Color de texto para el encabezado */
+}
+
+p {
+    margin-bottom: 10px; /* Espaciado inferior para párrafos */
+}
+
+input, select, button {
+    margin-bottom: 10px; /* Espaciado inferior para elementos de entrada */
+}
+
+#historia {
+    font-style: italic; /* Estilo de fuente para el párrafo de historia */
+}
